@@ -9,10 +9,10 @@ void move(int n, char comeco, char aux, char fim){
 
 }
 
-int main(){
+/*int main(){
     int n;
     printf("Escreva o numero de discos: ");
     scanf("%d", &n);
     move(n, 'A', 'B', 'C');
     return 0;
-}
+}*/
